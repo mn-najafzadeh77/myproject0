@@ -48,6 +48,7 @@ map {
   position: absolute;
   background-image: url(1.svg);
   background-position: center center;
+  background-size: cover;
   width: 200px;
   height: 100px;
  
