@@ -44,8 +44,10 @@ map {
   position: fixed;
 }
 #svg1 {
- position: absolute;
+  display: inline;
+  position: absolute;
   background-image: url(1.svg);
+  background-position: center center;
   width: 200px;
   height: 100px;
  
